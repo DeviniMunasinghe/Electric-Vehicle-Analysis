@@ -2,9 +2,13 @@
 
 Dashboard Link :https://drive.google.com/drive/u/0/folders/1fSH8yoO4G_aGgCqZEt71vTu-rGUkQKna
 
+
+
 Project description:
 
 This project involves the creation of a comprehensive Electric Vehicle Sales Dashboard using Power BI for a car dealership company. The primary goal is to design and develop a dynamic, interactive dashboard that visualizes key performance indicators (KPIs) related to electric vehicle sales, including total vehicles, average electric range, and the breakdown of BEVs and PHEVs. This dashboard will provide real-time insights into sales performance, market trends, and adoption patterns, enabling data-driven decision-making and enhancing strategic planning for the dealership.
+
+
 
 Key Features of the Dashboard:
 
@@ -28,6 +32,7 @@ Total Vehicles by State: Map Chart showcasing the geographical distribution of e
 Top 10 Total Vehicles by Make: Bar Chart highlighting the top 10 electric vehicle manufacturers based on the total number of vehicles.
 Total Vehicles by CAFV Eligibility: Pie/Donut Chart illustrating the proportion of electric vehicles eligible for Clean Alternative Fuel Vehicle (CAFV) incentives.
 Top 10 Total Vehicles by Model: Tree Map highlighting the top 10 electric vehicle models based on the total number of vehicles, providing insights into consumer preferences and popular models.
+
 
 
 
