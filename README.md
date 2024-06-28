@@ -6,7 +6,7 @@ Dashboard Link :https://drive.google.com/drive/u/0/folders/1fSH8yoO4G_aGgCqZEt71
 
 Project description:
 
-This project involves the creation of a comprehensive Electric Vehicle Sales Dashboard using Power BI for a car dealership company. The primary goal is to design and develop a dynamic, interactive dashboard that visualizes key performance indicators (KPIs) related to electric vehicle sales, including total vehicles, average electric range, and the breakdown of BEVs and PHEVs. This dashboard will provide real-time insights into sales performance, market trends, and adoption patterns, enabling data-driven decision-making and enhancing strategic planning for the dealership.
+This project involves the creation of a comprehensive Electric Vehicle Sales Dashboard using Power BI for a manufacturing company. The primary goal is to design and develop a dynamic, interactive dashboard that visualizes key performance indicators (KPIs) related to electric vehicle sales, including total vehicles, average electric range, and the breakdown of BEVs and PHEVs. This dashboard will provide real-time insights into sales performance, market trends, and adoption patterns, enabling data-driven decision-making and enhancing strategic planning for the manufacturer.
 
 
 
